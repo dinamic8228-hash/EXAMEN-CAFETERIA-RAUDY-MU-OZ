@@ -37,6 +37,6 @@ Caso de prueba: María Pérez (frecuente); Sándwich 180 × 2 grande = 410.00; J
 
 ## 6. Capturas de pantalla
 
-![Formulario con el caso de prueba](capturas/caso-prueba.png)
+![image alt](https://github.com/dinamic8228-hash/EXAMEN-CAFETERIA-RAUDY-MU-OZ/blob/d9329450e1425a86fc225c8ae1f3e6c6ab7b97dc/imagen_2026-11-19_194605291.png)
 
-![Total calculado](capturas/total-calculado.png)
+
